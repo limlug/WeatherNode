@@ -1,5 +1,6 @@
 # Capabilities
 
+### Measurements
 - Temperature
 - Humidity
 - Wind Speed
@@ -9,5 +10,7 @@
 - UV radiation
 - Rainfall
 
-
-Windresistance > 150km/h
+### Other capabilities
+- Lora Gateway
+- ADSB Receiver
+- Windresistance > 150km/h
